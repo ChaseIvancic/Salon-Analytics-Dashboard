@@ -13,11 +13,11 @@ The dashboard also highlights key business insights, including:
 By combining financial, operational, and customer analytics, this dashboard helps salon owners identify opportunities to increase revenue, improve client retention, and optimize business operations.
 
 ## Dashboard Preview
-![Salon Performance Dashboard](Screenshots/SalonDashboardPreview.pdf)
+![Salon Performance Dashboard](Screenshots/SalonDashboardPreview.png)
 <details>
   <summary><b>View Dashboard with Filters Applied</b></summary>
   <br>
-  <img src="Screenshots/SalonDashboardPreview-FiltersApplied.pdf"
+  <img src="Screenshots/SalonDashboardPreview-FiltersApplied.png"
        alt="Filtered Salon Performance Dashboard"
        width="900">
 </details>
