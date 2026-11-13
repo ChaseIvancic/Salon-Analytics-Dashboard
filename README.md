@@ -32,3 +32,53 @@ By combining financial, operational, and customer analytics, this dashboard help
 ## Dataset Overview
 
 ## Business Questions & SQL Analysis
+### Which service categories are driving year-over-year revenue growth, and which are declining?
+#### Business Objective
+
+#### Technical Approach
+
+#### SQL Concepts Demonstrated
+
+#### Results
+
+#### Business Insights
+### Are revenue increases being driven primarily by more appointments or by higher average ticket values?
+#### Business Objective
+
+#### Technical Approach
+
+#### SQL Concepts Demonstrated
+
+#### Results
+
+#### Business Insights
+### Which clients are at the highest risk of not returning, based on their historical visit frequency?
+#### Business Objective
+
+#### Technical Approach
+
+#### SQL Concepts Demonstrated
+
+#### Results
+
+#### Business Insights
+### Which stylists are improving their revenue performance the fastest over time?
+#### Business Objective
+
+#### Technical Approach
+
+#### SQL Concepts Demonstrated
+
+#### Results
+
+#### Business Insights
+### What appointment days and times experience the highest cancellation or no-show rates?
+#### Business Objective
+
+#### Technical Approach
+
+#### SQL Concepts Demonstrated
+
+#### Results
+
+#### Business Insights
