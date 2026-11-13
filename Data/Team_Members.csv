@@ -1,0 +1,7 @@
+﻿Provider_ID,Provider_Name,Role,Primary_Specialty,Hire_Date,Employment_Type,Commission_Rate,Retail_Commission_Rate,Work_Days,Active
+PRV-001,Camila Reyes,Owner / Master Stylist,Color & Extensions,2021-06-01,Owner,0.0,0.0,"Tue,Wed,Thu,Fri,Sat",True
+PRV-002,Morgan Ellis,Senior Stylist,Blonding & Curly Hair,2022-02-14,Commission,0.48,0.1,"Tue,Wed,Thu,Fri,Sat",True
+PRV-003,Jade Thompson,Nail Artist,Structured Gel & Nail Art,2022-09-06,Commission,0.5,0.1,"Tue,Wed,Thu,Fri,Sat",True
+PRV-004,Nia Brooks,Lash & Brow Artist,Lash Extensions & Brows,2023-01-10,Commission,0.5,0.12,"Wed,Thu,Fri,Sat",True
+PRV-005,Sophie Patel,Esthetician,Facials & Waxing,2023-08-21,Commission,0.46,0.12,"Tue,Wed,Thu,Fri,Sat",True
+PRV-006,Avery Bennett,Junior Stylist,"Cuts, Blowouts & Color",2024-05-20,Commission,0.42,0.08,"Wed,Thu,Fri,Sat",True

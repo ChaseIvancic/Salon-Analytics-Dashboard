@@ -1,0 +1,405 @@
+﻿Expense_ID,Expense_Date,Expense_Category,Vendor,Description,Amount,Payment_Method,Tax_Deductible,Receipt_Attached,Provider_ID,Notes
+EXP-000003,2024-01-02,Software,Accounting Software,Software - January 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000007,2024-01-02,Utilities,Illuminating Company,Utilities - January 2024,381.87,ACH,True,True,,Recurring operating expense
+EXP-000009,2024-01-02,Retail Inventory,Faire Wholesale,Retail Inventory order,281.01,Business Card,True,True,,
+EXP-000005,2024-01-03,Internet & Phone,Spectrum Business,Internet & Phone - January 2024,118.0,Business Card,True,False,,Recurring operating expense
+EXP-000006,2024-01-03,Laundry,Fresh Linen Service,Laundry - January 2024,129.06,Business Card,True,True,,Recurring operating expense
+EXP-000004,2024-01-05,Insurance,Beauty & Bodywork Insurance,Insurance - January 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000001,2024-01-06,Rent,Broadview Properties,Rent - January 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000002,2024-01-06,Software,GlossGenius,Software - January 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000012,2024-01-06,Cleaning Supplies,Costco Business,Cleaning Supplies order,87.23,Business Card,True,True,,
+EXP-000008,2024-01-10,Marketing,Google Ads,Marketing order,319.35,ACH,True,True,,
+EXP-000010,2024-01-11,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,479.7,ACH,True,True,,
+EXP-000013,2024-01-19,Marketing,Google Ads,Google Ads invoice,225.43,Cash,True,True,,
+EXP-000011,2024-01-23,Professional Supplies,SalonCentric,SalonCentric invoice,910.12,ACH,True,True,,
+EXP-000014,2024-01-23,Professional Supplies,CosmoProf,Professional Supplies order,334.91,ACH,True,True,,
+EXP-000020,2024-02-02,Laundry,Fresh Linen Service,Laundry - February 2024,130.4,Business Card,True,True,,Recurring operating expense
+EXP-000021,2024-02-02,Utilities,Illuminating Company,Utilities - February 2024,394.86,ACH,True,True,,Recurring operating expense
+EXP-000025,2024-02-02,Professional Supplies,CosmoProf,Professional Supplies order,383.43,Business Card,True,True,,
+EXP-000024,2024-02-04,Cleaning Supplies,Costco Business,Cleaning Supplies order,140.87,Business Card,True,True,,
+EXP-000017,2024-02-05,Software,Accounting Software,Software - February 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000018,2024-02-05,Insurance,Beauty & Bodywork Insurance,Insurance - February 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000015,2024-02-06,Rent,Broadview Properties,Rent - February 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000016,2024-02-06,Software,GlossGenius,Software - February 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000019,2024-02-06,Internet & Phone,Spectrum Business,Internet & Phone - February 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000023,2024-02-24,Professional Supplies,SalonCentric,Professional Supplies order,874.09,ACH,True,True,,
+EXP-000022,2024-02-28,Professional Supplies,CosmoProf,Professional Supplies order,693.48,Business Card,True,True,,
+EXP-000031,2024-03-01,Laundry,Fresh Linen Service,Laundry - March 2024,149.01,Business Card,True,True,,Recurring operating expense
+EXP-000027,2024-03-02,Software,GlossGenius,Software - March 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000038,2024-03-05,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,319.35,Business Card,True,True,,
+EXP-000026,2024-03-06,Rent,Broadview Properties,Rent - March 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000032,2024-03-06,Utilities,Illuminating Company,Utilities - March 2024,374.35,ACH,True,True,,Recurring operating expense
+EXP-000030,2024-03-07,Internet & Phone,Spectrum Business,Internet & Phone - March 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000028,2024-03-09,Software,Accounting Software,Software - March 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000029,2024-03-09,Insurance,Beauty & Bodywork Insurance,Insurance - March 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000036,2024-03-14,Retail Inventory,Universal Companies,Retail Inventory order,754.13,ACH,True,True,,
+EXP-000035,2024-03-16,Professional Supplies,SalonCentric,Monthly professional supplies purchase,949.27,Business Card,True,True,,
+EXP-000037,2024-03-17,Retail Inventory,Universal Companies,Universal Companies invoice,827.43,ACH,True,True,,
+EXP-000034,2024-03-18,Professional Supplies,SalonCentric,Monthly professional supplies purchase,1691.31,Business Card,True,True,,
+EXP-000033,2024-03-21,Marketing,Meta Ads,Marketing order,635.89,Business Card,True,True,,
+EXP-000040,2024-04-02,Software,GlossGenius,Software - April 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000045,2024-04-02,Utilities,Illuminating Company,Utilities - April 2024,391.79,ACH,True,True,,Recurring operating expense
+EXP-000041,2024-04-03,Software,Accounting Software,Software - April 2024,35.0,Business Card,True,False,,Recurring operating expense
+EXP-000039,2024-04-05,Rent,Broadview Properties,Rent - April 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000044,2024-04-07,Laundry,Fresh Linen Service,Laundry - April 2024,132.93,Business Card,True,False,,Recurring operating expense
+EXP-000042,2024-04-08,Insurance,Beauty & Bodywork Insurance,Insurance - April 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000043,2024-04-09,Internet & Phone,Spectrum Business,Internet & Phone - April 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000048,2024-04-09,Professional Supplies,CosmoProf,Professional Supplies order,922.75,Business Card,True,True,,
+EXP-000049,2024-04-11,Education,Beauty Industry Workshop,Education order,497.04,ACH,True,True,,
+EXP-000046,2024-04-21,Professional Supplies,SalonCentric,Professional Supplies order,1734.53,Business Card,True,True,,
+EXP-000047,2024-04-28,Marketing,Google Ads,Marketing order,272.11,Business Card,True,False,,
+EXP-000051,2024-05-01,Software,GlossGenius,Software - May 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000052,2024-05-01,Software,Accounting Software,Software - May 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000055,2024-05-01,Laundry,Fresh Linen Service,Laundry - May 2024,129.33,Business Card,True,True,,Recurring operating expense
+EXP-000050,2024-05-03,Rent,Broadview Properties,Rent - May 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000060,2024-05-03,Office Supplies,Staples,Monthly office supplies purchase,52.44,Business Card,True,True,,
+EXP-000057,2024-05-05,Marketing,Google Ads,Monthly marketing purchase,362.69,Cash,True,True,,
+EXP-000058,2024-05-05,Cleaning Supplies,Costco Business,Cleaning Supplies order,169.35,Business Card,True,True,,
+EXP-000061,2024-05-05,Marketing,Google Ads,Marketing order,252.19,ACH,True,True,,
+EXP-000059,2024-05-06,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,319.09,Business Card,True,False,,
+EXP-000053,2024-05-07,Insurance,Beauty & Bodywork Insurance,Insurance - May 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000054,2024-05-07,Internet & Phone,Spectrum Business,Internet & Phone - May 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000056,2024-05-09,Utilities,Illuminating Company,Utilities - May 2024,373.59,ACH,True,True,,Recurring operating expense
+EXP-000062,2024-05-27,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,337.29,Business Card,True,True,,
+EXP-000069,2024-06-01,Utilities,Illuminating Company,Utilities - June 2024,285.55,ACH,True,True,,Recurring operating expense
+EXP-000064,2024-06-04,Software,GlossGenius,Software - June 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000066,2024-06-04,Insurance,Beauty & Bodywork Insurance,Insurance - June 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000067,2024-06-05,Internet & Phone,Spectrum Business,Internet & Phone - June 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000068,2024-06-05,Laundry,Fresh Linen Service,Laundry - June 2024,160.53,Business Card,True,True,,Recurring operating expense
+EXP-000063,2024-06-07,Rent,Broadview Properties,Rent - June 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000073,2024-06-07,Professional Supplies,CosmoProf,Professional Supplies order,878.14,Business Card,True,True,,
+EXP-000074,2024-06-07,Professional Supplies,CosmoProf,CosmoProf invoice,923.36,ACH,True,True,,
+EXP-000065,2024-06-08,Software,Accounting Software,Software - June 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000072,2024-06-08,Marketing,Meta Ads,Marketing order,159.1,Business Card,True,True,,
+EXP-000071,2024-06-15,Repairs & Maintenance,Local Repair Service,Monthly repairs & maintenance purchase,205.83,Business Card,True,True,,
+EXP-000070,2024-06-16,Cleaning Supplies,Costco Business,Costco Business invoice,55.46,Business Card,True,True,,
+EXP-000076,2024-07-01,Software,GlossGenius,Software - July 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000075,2024-07-02,Rent,Broadview Properties,Rent - July 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000082,2024-07-02,Professional Supplies,CosmoProf,Professional Supplies order,394.36,Business Card,True,True,,
+EXP-000078,2024-07-04,Insurance,Beauty & Bodywork Insurance,Insurance - July 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000077,2024-07-05,Software,Accounting Software,Software - July 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000079,2024-07-06,Internet & Phone,Spectrum Business,Internet & Phone - July 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000081,2024-07-06,Utilities,Illuminating Company,Utilities - July 2024,343.28,ACH,True,True,,Recurring operating expense
+EXP-000080,2024-07-07,Laundry,Fresh Linen Service,Laundry - July 2024,153.23,Business Card,True,True,,Recurring operating expense
+EXP-000087,2024-07-16,Retail Inventory,Universal Companies,Retail Inventory order,318.95,ACH,True,True,,
+EXP-000084,2024-07-19,Education,Beauty Industry Workshop,Education order,549.02,ACH,True,True,,
+EXP-000086,2024-07-20,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,559.78,Business Card,True,False,,
+EXP-000089,2024-07-21,Professional Supplies,SalonCentric,Professional Supplies order,1410.79,Business Card,True,True,,
+EXP-000083,2024-07-24,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,73.65,ACH,True,True,,
+EXP-000088,2024-07-24,Retail Inventory,Universal Companies,Retail Inventory order,543.46,Business Card,True,True,,
+EXP-000085,2024-07-28,Marketing,Meta Ads,Monthly marketing purchase,347.41,ACH,True,True,,
+EXP-000091,2024-08-06,Software,GlossGenius,Software - August 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000094,2024-08-06,Internet & Phone,Spectrum Business,Internet & Phone - August 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000102,2024-08-06,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,78.18,Business Card,True,True,,
+EXP-000093,2024-08-07,Insurance,Beauty & Bodywork Insurance,Insurance - August 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000096,2024-08-07,Utilities,Illuminating Company,Utilities - August 2024,394.58,ACH,True,True,,Recurring operating expense
+EXP-000095,2024-08-08,Laundry,Fresh Linen Service,Laundry - August 2024,110.75,Business Card,True,True,,Recurring operating expense
+EXP-000090,2024-08-09,Rent,Broadview Properties,Rent - August 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000092,2024-08-09,Software,Accounting Software,Software - August 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000100,2024-08-16,Professional Supplies,CosmoProf,CosmoProf invoice,477.2,ACH,True,True,,
+EXP-000097,2024-08-17,Professional Supplies,CosmoProf,CosmoProf invoice,554.51,Business Card,True,True,,
+EXP-000098,2024-08-20,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,73.21,Business Card,True,True,,
+EXP-000101,2024-08-20,Office Supplies,Staples,Monthly office supplies purchase,128.64,Business Card,True,True,,
+EXP-000099,2024-08-21,Marketing,Meta Ads,Monthly marketing purchase,610.82,Business Card,True,True,,
+EXP-000109,2024-09-02,Utilities,Illuminating Company,Utilities - September 2024,400.92,ACH,True,True,,Recurring operating expense
+EXP-000111,2024-09-02,Office Supplies,Staples,Staples invoice,53.85,ACH,True,True,,
+EXP-000104,2024-09-04,Software,GlossGenius,Software - September 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000103,2024-09-06,Rent,Broadview Properties,Rent - September 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000107,2024-09-06,Internet & Phone,Spectrum Business,Internet & Phone - September 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000108,2024-09-06,Laundry,Fresh Linen Service,Laundry - September 2024,147.72,Business Card,True,True,,Recurring operating expense
+EXP-000105,2024-09-09,Software,Accounting Software,Software - September 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000106,2024-09-09,Insurance,Beauty & Bodywork Insurance,Insurance - September 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000112,2024-09-09,Professional Supplies,CosmoProf,CosmoProf invoice,379.96,Business Card,True,True,,
+EXP-000114,2024-09-15,Retail Inventory,Universal Companies,Universal Companies invoice,835.74,Business Card,True,True,,
+EXP-000115,2024-09-21,Retail Inventory,Faire Wholesale,Faire Wholesale invoice,636.46,Business Card,True,True,,
+EXP-000110,2024-09-26,Repairs & Maintenance,Local Repair Service,Local Repair Service invoice,414.8,ACH,True,True,,
+EXP-000113,2024-09-27,Marketing,Google Ads,Google Ads invoice,239.22,ACH,True,True,,
+EXP-000118,2024-10-03,Software,Accounting Software,Software - October 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000122,2024-10-03,Utilities,Illuminating Company,Utilities - October 2024,392.95,ACH,True,True,,Recurring operating expense
+EXP-000121,2024-10-04,Laundry,Fresh Linen Service,Laundry - October 2024,149.13,Business Card,True,True,,Recurring operating expense
+EXP-000117,2024-10-05,Software,GlossGenius,Software - October 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000120,2024-10-06,Internet & Phone,Spectrum Business,Internet & Phone - October 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000116,2024-10-09,Rent,Broadview Properties,Rent - October 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000119,2024-10-09,Insurance,Beauty & Bodywork Insurance,Insurance - October 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000126,2024-10-11,Professional Supplies,CosmoProf,Monthly professional supplies purchase,757.08,Business Card,True,True,,
+EXP-000128,2024-10-13,Professional Supplies,SalonCentric,Monthly professional supplies purchase,1694.02,ACH,True,True,,
+EXP-000124,2024-10-20,Professional Supplies,SalonCentric,SalonCentric invoice,796.22,Business Card,True,False,,
+EXP-000127,2024-10-21,Marketing,Meta Ads,Marketing order,199.95,Business Card,True,False,,
+EXP-000125,2024-10-24,Professional Supplies,CosmoProf,Monthly professional supplies purchase,678.16,Business Card,True,True,,
+EXP-000123,2024-10-27,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,135.88,Business Card,True,True,,
+EXP-000131,2024-11-02,Software,Accounting Software,Software - November 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000136,2024-11-02,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,104.35,Business Card,True,True,,
+EXP-000135,2024-11-04,Utilities,Illuminating Company,Utilities - November 2024,369.54,ACH,True,True,,Recurring operating expense
+EXP-000129,2024-11-05,Rent,Broadview Properties,Rent - November 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000134,2024-11-05,Laundry,Fresh Linen Service,Laundry - November 2024,145.78,Business Card,True,True,,Recurring operating expense
+EXP-000133,2024-11-07,Internet & Phone,Spectrum Business,Internet & Phone - November 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000130,2024-11-08,Software,GlossGenius,Software - November 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000132,2024-11-08,Insurance,Beauty & Bodywork Insurance,Insurance - November 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000137,2024-11-08,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,164.37,Business Card,True,True,,
+EXP-000138,2024-11-08,Marketing,Meta Ads,Marketing order,297.99,Business Card,True,True,,
+EXP-000140,2024-11-11,Marketing,Meta Ads,Marketing order,190.37,ACH,True,True,,
+EXP-000139,2024-11-12,Cleaning Supplies,Costco Business,Cleaning Supplies order,100.76,ACH,True,False,,
+EXP-000155,2024-12-02,Professional Supplies,SalonCentric,Professional Supplies order,697.61,Business Card,True,True,,
+EXP-000141,2024-12-03,Rent,Broadview Properties,Rent - December 2024,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000142,2024-12-05,Software,GlossGenius,Software - December 2024,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000143,2024-12-05,Software,Accounting Software,Software - December 2024,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000144,2024-12-09,Insurance,Beauty & Bodywork Insurance,Insurance - December 2024,185.0,ACH,True,True,,Recurring operating expense
+EXP-000145,2024-12-09,Internet & Phone,Spectrum Business,Internet & Phone - December 2024,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000146,2024-12-09,Laundry,Fresh Linen Service,Laundry - December 2024,156.92,Business Card,True,True,,Recurring operating expense
+EXP-000147,2024-12-09,Utilities,Illuminating Company,Utilities - December 2024,318.6,ACH,True,True,,Recurring operating expense
+EXP-000148,2024-12-09,Retail Inventory,Faire Wholesale,Faire Wholesale invoice,264.93,Business Card,True,True,,
+EXP-000154,2024-12-17,Marketing,Meta Ads,Monthly marketing purchase,386.73,ACH,True,True,,
+EXP-000150,2024-12-18,Office Supplies,Staples,Monthly office supplies purchase,51.08,ACH,True,True,,
+EXP-000151,2024-12-19,Professional Supplies,CosmoProf,Professional Supplies order,774.96,Business Card,True,True,,
+EXP-000149,2024-12-23,Retail Inventory,Universal Companies,Retail Inventory order,555.07,Business Card,True,True,,
+EXP-000153,2024-12-26,Retail Inventory,Universal Companies,Universal Companies invoice,728.11,Business Card,True,True,,
+EXP-000152,2024-12-28,Repairs & Maintenance,Local Repair Service,Local Repair Service invoice,123.13,Business Card,True,True,,
+EXP-000156,2025-01-01,Rent,Broadview Properties,Rent - January 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000157,2025-01-03,Software,GlossGenius,Software - January 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000159,2025-01-03,Insurance,Beauty & Bodywork Insurance,Insurance - January 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000161,2025-01-03,Laundry,Fresh Linen Service,Laundry - January 2025,135.85,Business Card,True,True,,Recurring operating expense
+EXP-000163,2025-01-03,Cleaning Supplies,Costco Business,Costco Business invoice,153.3,Business Card,True,True,,
+EXP-000158,2025-01-04,Software,Accounting Software,Software - January 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000162,2025-01-06,Utilities,Illuminating Company,Utilities - January 2025,262.01,ACH,True,True,,Recurring operating expense
+EXP-000160,2025-01-08,Internet & Phone,Spectrum Business,Internet & Phone - January 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000165,2025-01-08,Marketing,Meta Ads,Monthly marketing purchase,286.71,ACH,True,True,,
+EXP-000166,2025-01-21,Retail Inventory,Universal Companies,Retail Inventory order,606.56,ACH,True,True,,
+EXP-000164,2025-01-22,Office Supplies,Staples,Office Supplies order,63.16,Business Card,True,True,,
+EXP-000168,2025-02-01,Software,GlossGenius,Software - February 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000171,2025-02-03,Internet & Phone,Spectrum Business,Internet & Phone - February 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000169,2025-02-05,Software,Accounting Software,Software - February 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000170,2025-02-05,Insurance,Beauty & Bodywork Insurance,Insurance - February 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000167,2025-02-07,Rent,Broadview Properties,Rent - February 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000179,2025-02-08,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,426.14,ACH,True,True,,
+EXP-000172,2025-02-09,Laundry,Fresh Linen Service,Laundry - February 2025,153.93,Business Card,True,True,,Recurring operating expense
+EXP-000173,2025-02-09,Utilities,Illuminating Company,Utilities - February 2025,257.79,ACH,True,True,,Recurring operating expense
+EXP-000177,2025-02-19,Retail Inventory,Universal Companies,Universal Companies invoice,251.75,ACH,True,True,,
+EXP-000175,2025-02-24,Repairs & Maintenance,Local Repair Service,Monthly repairs & maintenance purchase,222.32,Business Card,True,True,,
+EXP-000178,2025-02-25,Office Supplies,Staples,Staples invoice,66.01,Business Card,True,True,,
+EXP-000174,2025-02-27,Cleaning Supplies,Costco Business,Costco Business invoice,79.06,ACH,True,True,,
+EXP-000176,2025-02-28,Retail Inventory,Universal Companies,Universal Companies invoice,360.02,Business Card,True,True,,
+EXP-000181,2025-03-02,Software,GlossGenius,Software - March 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000184,2025-03-03,Internet & Phone,Spectrum Business,Internet & Phone - March 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000190,2025-03-05,Office Supplies,Staples,Office Supplies order,84.16,Business Card,True,True,,
+EXP-000180,2025-03-07,Rent,Broadview Properties,Rent - March 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000185,2025-03-07,Laundry,Fresh Linen Service,Laundry - March 2025,129.18,Business Card,True,True,,Recurring operating expense
+EXP-000182,2025-03-09,Software,Accounting Software,Software - March 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000183,2025-03-09,Insurance,Beauty & Bodywork Insurance,Insurance - March 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000186,2025-03-09,Utilities,Illuminating Company,Utilities - March 2025,283.0,ACH,True,True,,Recurring operating expense
+EXP-000188,2025-03-12,Office Supplies,Staples,Office Supplies order,45.22,ACH,True,True,,
+EXP-000187,2025-03-16,Marketing,Google Ads,Marketing order,332.96,Business Card,True,True,,
+EXP-000189,2025-03-24,Retail Inventory,Universal Companies,Universal Companies invoice,627.05,ACH,True,True,,
+EXP-000194,2025-04-01,Insurance,Beauty & Bodywork Insurance,Insurance - April 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000198,2025-04-04,Professional Supplies,SalonCentric,Professional Supplies order,814.93,Business Card,True,True,,
+EXP-000191,2025-04-06,Rent,Broadview Properties,Rent - April 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000192,2025-04-06,Software,GlossGenius,Software - April 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000193,2025-04-06,Software,Accounting Software,Software - April 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000195,2025-04-06,Internet & Phone,Spectrum Business,Internet & Phone - April 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000196,2025-04-08,Laundry,Fresh Linen Service,Laundry - April 2025,141.88,Business Card,True,True,,Recurring operating expense
+EXP-000197,2025-04-09,Utilities,Illuminating Company,Utilities - April 2025,383.36,ACH,True,True,,Recurring operating expense
+EXP-000202,2025-04-12,Education,Beauty Industry Workshop,Education order,353.97,Business Card,True,False,,
+EXP-000200,2025-04-18,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,386.27,Business Card,True,True,,
+EXP-000204,2025-04-20,Professional Supplies,CosmoProf,Professional Supplies order,488.17,Business Card,True,True,,
+EXP-000201,2025-04-21,Education,Beauty Industry Workshop,Monthly education purchase,186.1,Business Card,True,True,,
+EXP-000203,2025-04-25,Education,Beauty Industry Workshop,Education order,467.99,Business Card,True,False,,
+EXP-000199,2025-04-28,Marketing,Google Ads,Google Ads invoice,316.91,Business Card,True,True,,
+EXP-000210,2025-05-01,Laundry,Fresh Linen Service,Laundry - May 2025,122.27,Business Card,True,True,,Recurring operating expense
+EXP-000205,2025-05-02,Rent,Broadview Properties,Rent - May 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000208,2025-05-05,Insurance,Beauty & Bodywork Insurance,Insurance - May 2025,185.0,ACH,True,False,,Recurring operating expense
+EXP-000206,2025-05-06,Software,GlossGenius,Software - May 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000209,2025-05-08,Internet & Phone,Spectrum Business,Internet & Phone - May 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000207,2025-05-09,Software,Accounting Software,Software - May 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000211,2025-05-09,Utilities,Illuminating Company,Utilities - May 2025,396.21,ACH,True,True,,Recurring operating expense
+EXP-000213,2025-05-09,Marketing,Meta Ads,Marketing order,301.07,Cash,True,True,,
+EXP-000214,2025-05-09,Marketing,Meta Ads,Meta Ads invoice,321.97,Business Card,True,True,,
+EXP-000215,2025-05-18,Repairs & Maintenance,Local Repair Service,Monthly repairs & maintenance purchase,472.18,Business Card,True,False,,
+EXP-000216,2025-05-20,Education,Beauty Industry Workshop,Education order,185.29,Business Card,True,True,,
+EXP-000212,2025-05-21,Marketing,Google Ads,Google Ads invoice,212.33,Business Card,True,True,,
+EXP-000219,2025-06-01,Software,Accounting Software,Software - June 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000218,2025-06-03,Software,GlossGenius,Software - June 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000222,2025-06-03,Laundry,Fresh Linen Service,Laundry - June 2025,144.18,Business Card,True,True,,Recurring operating expense
+EXP-000217,2025-06-04,Rent,Broadview Properties,Rent - June 2025,2200.0,ACH,True,False,,Recurring operating expense
+EXP-000220,2025-06-05,Insurance,Beauty & Bodywork Insurance,Insurance - June 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000223,2025-06-06,Utilities,Illuminating Company,Utilities - June 2025,360.87,ACH,True,True,,Recurring operating expense
+EXP-000231,2025-06-07,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,611.04,Business Card,True,True,,
+EXP-000221,2025-06-09,Internet & Phone,Spectrum Business,Internet & Phone - June 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000226,2025-06-11,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,345.81,Business Card,True,True,,
+EXP-000228,2025-06-12,Education,Beauty Industry Workshop,Monthly education purchase,610.34,Business Card,True,True,,
+EXP-000225,2025-06-14,Retail Inventory,Faire Wholesale,Retail Inventory order,472.76,ACH,True,True,,
+EXP-000224,2025-06-16,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,106.1,Business Card,True,True,,
+EXP-000230,2025-06-18,Cleaning Supplies,Costco Business,Cleaning Supplies order,80.47,Business Card,True,False,,
+EXP-000227,2025-06-23,Professional Supplies,SalonCentric,Professional Supplies order,1271.69,Business Card,True,True,,
+EXP-000229,2025-06-23,Professional Supplies,SalonCentric,Monthly professional supplies purchase,963.5,ACH,True,True,,
+EXP-000233,2025-07-01,Software,GlossGenius,Software - July 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000234,2025-07-02,Software,Accounting Software,Software - July 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000236,2025-07-03,Internet & Phone,Spectrum Business,Internet & Phone - July 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000237,2025-07-05,Laundry,Fresh Linen Service,Laundry - July 2025,111.94,Business Card,True,True,,Recurring operating expense
+EXP-000232,2025-07-07,Rent,Broadview Properties,Rent - July 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000235,2025-07-08,Insurance,Beauty & Bodywork Insurance,Insurance - July 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000242,2025-07-08,Marketing,Meta Ads,Marketing order,180.64,Business Card,True,True,,
+EXP-000238,2025-07-09,Utilities,Illuminating Company,Utilities - July 2025,254.45,ACH,True,True,,Recurring operating expense
+EXP-000241,2025-07-10,Office Supplies,Staples,Office Supplies order,42.24,ACH,True,False,,
+EXP-000243,2025-07-11,Office Supplies,Staples,Office Supplies order,44.6,Business Card,True,True,,
+EXP-000239,2025-07-16,Marketing,Google Ads,Monthly marketing purchase,235.35,Business Card,True,False,,
+EXP-000240,2025-07-21,Education,Beauty Industry Workshop,Education order,378.6,Business Card,True,True,,
+EXP-000250,2025-08-01,Utilities,Illuminating Company,Utilities - August 2025,241.51,ACH,True,True,,Recurring operating expense
+EXP-000244,2025-08-02,Rent,Broadview Properties,Rent - August 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000245,2025-08-02,Software,GlossGenius,Software - August 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000248,2025-08-04,Internet & Phone,Spectrum Business,Internet & Phone - August 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000256,2025-08-04,Education,Beauty Industry Workshop,Education order,541.46,Business Card,True,True,,
+EXP-000246,2025-08-05,Software,Accounting Software,Software - August 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000251,2025-08-05,Marketing,Meta Ads,Meta Ads invoice,123.2,Business Card,True,False,,
+EXP-000247,2025-08-06,Insurance,Beauty & Bodywork Insurance,Insurance - August 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000249,2025-08-07,Laundry,Fresh Linen Service,Laundry - August 2025,149.51,Business Card,True,True,,Recurring operating expense
+EXP-000254,2025-08-08,Retail Inventory,Faire Wholesale,Retail Inventory order,570.18,Business Card,True,True,,
+EXP-000255,2025-08-15,Professional Supplies,CosmoProf,Monthly professional supplies purchase,523.48,Business Card,True,True,,
+EXP-000252,2025-08-22,Cleaning Supplies,Costco Business,Cleaning Supplies order,132.12,Business Card,True,True,,
+EXP-000253,2025-08-23,Cleaning Supplies,Costco Business,Cleaning Supplies order,130.68,Business Card,True,True,,
+EXP-000257,2025-08-24,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,65.15,Cash,True,True,,
+EXP-000260,2025-09-04,Software,Accounting Software,Software - September 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000264,2025-09-04,Utilities,Illuminating Company,Utilities - September 2025,356.47,ACH,True,True,,Recurring operating expense
+EXP-000266,2025-09-05,Marketing,Meta Ads,Meta Ads invoice,120.82,ACH,True,True,,
+EXP-000258,2025-09-06,Rent,Broadview Properties,Rent - September 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000265,2025-09-06,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,417.56,ACH,True,False,,
+EXP-000261,2025-09-08,Insurance,Beauty & Bodywork Insurance,Insurance - September 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000263,2025-09-08,Laundry,Fresh Linen Service,Laundry - September 2025,112.86,Business Card,True,True,,Recurring operating expense
+EXP-000259,2025-09-09,Software,GlossGenius,Software - September 2025,72.0,Business Card,True,False,,Recurring operating expense
+EXP-000262,2025-09-09,Internet & Phone,Spectrum Business,Internet & Phone - September 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000268,2025-09-12,Repairs & Maintenance,Local Repair Service,Monthly repairs & maintenance purchase,160.52,Business Card,True,True,,
+EXP-000270,2025-09-13,Marketing,Google Ads,Monthly marketing purchase,352.38,Business Card,True,True,,
+EXP-000267,2025-09-25,Cleaning Supplies,Costco Business,Cleaning Supplies order,116.89,Business Card,True,True,,
+EXP-000269,2025-09-25,Cleaning Supplies,Costco Business,Cleaning Supplies order,130.26,Business Card,True,True,,
+EXP-000271,2025-09-26,Professional Supplies,SalonCentric,Monthly professional supplies purchase,1289.15,ACH,True,True,,
+EXP-000283,2025-10-03,Office Supplies,Staples,Office Supplies order,68.96,Business Card,True,False,,
+EXP-000273,2025-10-04,Software,GlossGenius,Software - October 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000275,2025-10-04,Insurance,Beauty & Bodywork Insurance,Insurance - October 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000278,2025-10-04,Utilities,Illuminating Company,Utilities - October 2025,322.12,ACH,True,True,,Recurring operating expense
+EXP-000276,2025-10-05,Internet & Phone,Spectrum Business,Internet & Phone - October 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000277,2025-10-07,Laundry,Fresh Linen Service,Laundry - October 2025,147.0,Business Card,True,True,,Recurring operating expense
+EXP-000274,2025-10-08,Software,Accounting Software,Software - October 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000272,2025-10-09,Rent,Broadview Properties,Rent - October 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000280,2025-10-15,Retail Inventory,Universal Companies,Retail Inventory order,412.78,ACH,True,True,,
+EXP-000282,2025-10-17,Cleaning Supplies,Costco Business,Monthly cleaning supplies purchase,64.84,Business Card,True,True,,
+EXP-000279,2025-10-26,Professional Supplies,CosmoProf,Monthly professional supplies purchase,651.93,ACH,True,True,,
+EXP-000281,2025-10-27,Professional Supplies,SalonCentric,Professional Supplies order,1749.28,Business Card,True,True,,
+EXP-000285,2025-11-03,Software,GlossGenius,Software - November 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000288,2025-11-04,Internet & Phone,Spectrum Business,Internet & Phone - November 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000292,2025-11-04,Cleaning Supplies,Costco Business,Cleaning Supplies order,99.29,ACH,True,True,,
+EXP-000290,2025-11-05,Utilities,Illuminating Company,Utilities - November 2025,388.24,ACH,True,True,,Recurring operating expense
+EXP-000289,2025-11-06,Laundry,Fresh Linen Service,Laundry - November 2025,127.24,Business Card,True,True,,Recurring operating expense
+EXP-000296,2025-11-06,Marketing,Google Ads,Marketing order,200.93,Business Card,True,True,,
+EXP-000284,2025-11-07,Rent,Broadview Properties,Rent - November 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000287,2025-11-07,Insurance,Beauty & Bodywork Insurance,Insurance - November 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000294,2025-11-07,Retail Inventory,Faire Wholesale,Retail Inventory order,449.41,ACH,True,False,,
+EXP-000297,2025-11-08,Marketing,Google Ads,Marketing order,211.57,Business Card,True,True,,
+EXP-000286,2025-11-09,Software,Accounting Software,Software - November 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000295,2025-11-11,Professional Supplies,SalonCentric,Professional Supplies order,1739.21,Business Card,True,True,,
+EXP-000293,2025-11-14,Marketing,Google Ads,Monthly marketing purchase,338.72,Business Card,True,True,,
+EXP-000298,2025-11-18,Professional Supplies,CosmoProf,CosmoProf invoice,532.62,ACH,True,True,,
+EXP-000291,2025-11-23,Education,Beauty Industry Workshop,Monthly education purchase,582.94,Business Card,True,True,,
+EXP-000303,2025-12-04,Internet & Phone,Spectrum Business,Internet & Phone - December 2025,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000308,2025-12-04,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,237.47,ACH,True,True,,
+EXP-000299,2025-12-06,Rent,Broadview Properties,Rent - December 2025,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000300,2025-12-06,Software,GlossGenius,Software - December 2025,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000301,2025-12-06,Software,Accounting Software,Software - December 2025,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000304,2025-12-06,Laundry,Fresh Linen Service,Laundry - December 2025,125.6,Business Card,True,False,,Recurring operating expense
+EXP-000305,2025-12-07,Utilities,Illuminating Company,Utilities - December 2025,359.67,ACH,True,True,,Recurring operating expense
+EXP-000302,2025-12-09,Insurance,Beauty & Bodywork Insurance,Insurance - December 2025,185.0,ACH,True,True,,Recurring operating expense
+EXP-000310,2025-12-12,Professional Supplies,CosmoProf,CosmoProf invoice,301.36,Business Card,True,True,,
+EXP-000306,2025-12-18,Marketing,Google Ads,Marketing order,99.43,Business Card,True,True,,
+EXP-000311,2025-12-18,Cleaning Supplies,Costco Business,Costco Business invoice,74.18,Business Card,True,True,,
+EXP-000307,2025-12-22,Retail Inventory,Faire Wholesale,Retail Inventory order,435.57,Business Card,True,True,,
+EXP-000309,2025-12-25,Professional Supplies,SalonCentric,Professional Supplies order,906.26,Business Card,True,True,,
+EXP-000313,2026-01-01,Software,GlossGenius,Software - January 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000315,2026-01-02,Insurance,Beauty & Bodywork Insurance,Insurance - January 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000317,2026-01-02,Laundry,Fresh Linen Service,Laundry - January 2026,111.93,Business Card,True,True,,Recurring operating expense
+EXP-000312,2026-01-03,Rent,Broadview Properties,Rent - January 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000314,2026-01-03,Software,Accounting Software,Software - January 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000316,2026-01-09,Internet & Phone,Spectrum Business,Internet & Phone - January 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000318,2026-01-09,Utilities,Illuminating Company,Utilities - January 2026,361.31,ACH,True,True,,Recurring operating expense
+EXP-000320,2026-01-14,Repairs & Maintenance,Local Repair Service,Monthly repairs & maintenance purchase,285.37,Cash,True,True,,
+EXP-000321,2026-01-16,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,411.52,Business Card,True,True,,
+EXP-000322,2026-01-17,Professional Supplies,SalonCentric,SalonCentric invoice,710.87,Business Card,True,True,,
+EXP-000324,2026-01-24,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,609.91,Business Card,True,True,,
+EXP-000325,2026-01-25,Retail Inventory,Universal Companies,Retail Inventory order,573.49,Business Card,True,True,,
+EXP-000319,2026-01-27,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,93.04,ACH,True,False,,
+EXP-000323,2026-01-28,Professional Supplies,CosmoProf,Monthly professional supplies purchase,461.79,ACH,True,False,,
+EXP-000332,2026-02-02,Utilities,Illuminating Company,Utilities - February 2026,318.66,ACH,True,False,,Recurring operating expense
+EXP-000328,2026-02-03,Software,Accounting Software,Software - February 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000333,2026-02-03,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,387.69,Business Card,True,True,,
+EXP-000330,2026-02-04,Internet & Phone,Spectrum Business,Internet & Phone - February 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000331,2026-02-04,Laundry,Fresh Linen Service,Laundry - February 2026,159.57,Business Card,True,True,,Recurring operating expense
+EXP-000326,2026-02-06,Rent,Broadview Properties,Rent - February 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000327,2026-02-08,Software,GlossGenius,Software - February 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000329,2026-02-09,Insurance,Beauty & Bodywork Insurance,Insurance - February 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000335,2026-02-17,Education,Beauty Industry Workshop,Monthly education purchase,174.81,Business Card,True,True,,
+EXP-000334,2026-02-26,Retail Inventory,Faire Wholesale,Retail Inventory order,383.37,Business Card,True,False,,
+EXP-000336,2026-02-26,Marketing,Google Ads,Marketing order,340.0,Business Card,True,True,,
+EXP-000340,2026-03-01,Insurance,Beauty & Bodywork Insurance,Insurance - March 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000341,2026-03-01,Internet & Phone,Spectrum Business,Internet & Phone - March 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000342,2026-03-01,Laundry,Fresh Linen Service,Laundry - March 2026,159.36,Business Card,True,True,,Recurring operating expense
+EXP-000343,2026-03-01,Utilities,Illuminating Company,Utilities - March 2026,266.75,ACH,True,True,,Recurring operating expense
+EXP-000339,2026-03-04,Software,Accounting Software,Software - March 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000337,2026-03-05,Rent,Broadview Properties,Rent - March 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000338,2026-03-09,Software,GlossGenius,Software - March 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000350,2026-03-10,Marketing,Google Ads,Monthly marketing purchase,196.21,Business Card,True,True,,
+EXP-000345,2026-03-13,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,561.13,Business Card,True,False,,
+EXP-000344,2026-03-14,Cleaning Supplies,Costco Business,Costco Business invoice,170.41,ACH,True,True,,
+EXP-000348,2026-03-15,Professional Supplies,SalonCentric,Professional Supplies order,724.48,ACH,True,True,,
+EXP-000346,2026-03-19,Cleaning Supplies,Costco Business,Costco Business invoice,164.88,Business Card,True,True,,
+EXP-000347,2026-03-24,Professional Supplies,SalonCentric,Professional Supplies order,1798.21,ACH,True,True,,
+EXP-000349,2026-03-28,Cleaning Supplies,Costco Business,Cleaning Supplies order,107.25,ACH,True,True,,
+EXP-000351,2026-04-01,Rent,Broadview Properties,Rent - April 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000353,2026-04-01,Software,Accounting Software,Software - April 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000356,2026-04-02,Laundry,Fresh Linen Service,Laundry - April 2026,144.2,Business Card,True,True,,Recurring operating expense
+EXP-000354,2026-04-03,Insurance,Beauty & Bodywork Insurance,Insurance - April 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000355,2026-04-03,Internet & Phone,Spectrum Business,Internet & Phone - April 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000352,2026-04-05,Software,GlossGenius,Software - April 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000357,2026-04-05,Utilities,Illuminating Company,Utilities - April 2026,352.91,ACH,True,True,,Recurring operating expense
+EXP-000359,2026-04-06,Cleaning Supplies,Costco Business,Costco Business invoice,103.17,Business Card,True,True,,
+EXP-000364,2026-04-08,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,506.41,Cash,True,True,,
+EXP-000363,2026-04-14,Marketing,Meta Ads,Monthly marketing purchase,625.44,Business Card,True,True,,
+EXP-000360,2026-04-15,Marketing,Google Ads,Google Ads invoice,398.69,ACH,True,True,,
+EXP-000362,2026-04-16,Marketing,Google Ads,Marketing order,277.36,ACH,True,True,,
+EXP-000365,2026-04-17,Retail Inventory,Faire Wholesale,Monthly retail inventory purchase,552.66,Business Card,True,True,,
+EXP-000361,2026-04-19,Marketing,Meta Ads,Marketing order,136.22,Business Card,True,True,,
+EXP-000358,2026-04-28,Cleaning Supplies,Costco Business,Cleaning Supplies order,79.19,Business Card,True,True,,
+EXP-000367,2026-05-02,Software,GlossGenius,Software - May 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000372,2026-05-02,Utilities,Illuminating Company,Utilities - May 2026,338.63,ACH,True,True,,Recurring operating expense
+EXP-000371,2026-05-03,Laundry,Fresh Linen Service,Laundry - May 2026,126.81,Business Card,True,True,,Recurring operating expense
+EXP-000374,2026-05-03,Repairs & Maintenance,Local Repair Service,Local Repair Service invoice,223.93,Business Card,True,True,,
+EXP-000370,2026-05-04,Internet & Phone,Spectrum Business,Internet & Phone - May 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000366,2026-05-05,Rent,Broadview Properties,Rent - May 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000369,2026-05-05,Insurance,Beauty & Bodywork Insurance,Insurance - May 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000368,2026-05-06,Software,Accounting Software,Software - May 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000375,2026-05-09,Office Supplies,Staples,Staples invoice,69.75,Business Card,True,True,,
+EXP-000376,2026-05-09,Cleaning Supplies,Costco Business,Cleaning Supplies order,156.57,ACH,True,True,,
+EXP-000380,2026-05-12,Professional Supplies,CosmoProf,CosmoProf invoice,377.87,Business Card,True,True,,
+EXP-000379,2026-05-16,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,208.81,ACH,True,True,,
+EXP-000377,2026-05-21,Professional Supplies,SalonCentric,Professional Supplies order,1636.09,Business Card,True,True,,
+EXP-000378,2026-05-23,Office Supplies,Staples,Monthly office supplies purchase,65.25,Business Card,True,True,,
+EXP-000373,2026-05-27,Professional Supplies,CosmoProf,Monthly professional supplies purchase,852.54,Business Card,True,True,,
+EXP-000387,2026-06-01,Utilities,Illuminating Company,Utilities - June 2026,424.26,ACH,True,True,,Recurring operating expense
+EXP-000391,2026-06-02,Professional Supplies,CosmoProf,CosmoProf invoice,702.21,ACH,True,True,,
+EXP-000383,2026-06-03,Software,Accounting Software,Software - June 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000384,2026-06-05,Insurance,Beauty & Bodywork Insurance,Insurance - June 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000385,2026-06-06,Internet & Phone,Spectrum Business,Internet & Phone - June 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000386,2026-06-07,Laundry,Fresh Linen Service,Laundry - June 2026,133.68,Business Card,True,True,,Recurring operating expense
+EXP-000381,2026-06-08,Rent,Broadview Properties,Rent - June 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000382,2026-06-09,Software,GlossGenius,Software - June 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000388,2026-06-14,Professional Supplies,CosmoProf,Professional Supplies order,371.63,Business Card,True,True,,
+EXP-000390,2026-06-19,Professional Supplies,CosmoProf,Professional Supplies order,831.51,Business Card,True,True,,
+EXP-000392,2026-06-19,Repairs & Maintenance,Local Repair Service,Repairs & Maintenance order,181.36,Business Card,True,True,,
+EXP-000389,2026-06-26,Office Supplies,Staples,Monthly office supplies purchase,80.83,Business Card,True,False,,
+EXP-000398,2026-07-01,Laundry,Fresh Linen Service,Laundry - July 2026,145.91,Business Card,True,True,,Recurring operating expense
+EXP-000394,2026-07-02,Software,GlossGenius,Software - July 2026,72.0,Business Card,True,True,,Recurring operating expense
+EXP-000396,2026-07-05,Insurance,Beauty & Bodywork Insurance,Insurance - July 2026,185.0,ACH,True,True,,Recurring operating expense
+EXP-000393,2026-07-06,Rent,Broadview Properties,Rent - July 2026,2200.0,ACH,True,True,,Recurring operating expense
+EXP-000399,2026-07-06,Utilities,Illuminating Company,Utilities - July 2026,375.12,ACH,True,True,,Recurring operating expense
+EXP-000397,2026-07-08,Internet & Phone,Spectrum Business,Internet & Phone - July 2026,118.0,Business Card,True,True,,Recurring operating expense
+EXP-000401,2026-07-08,Office Supplies,Staples,Office Supplies order,54.21,Business Card,True,True,,
+EXP-000395,2026-07-09,Software,Accounting Software,Software - July 2026,35.0,Business Card,True,True,,Recurring operating expense
+EXP-000400,2026-07-10,Marketing,Meta Ads,Marketing order,642.21,Cash,True,True,,
+EXP-000402,2026-07-12,Professional Supplies,CosmoProf,Professional Supplies order,895.55,Business Card,True,True,,
+EXP-000404,2026-07-25,Cleaning Supplies,Costco Business,Cleaning Supplies order,169.22,Business Card,True,True,,
+EXP-000403,2026-07-26,Education,Beauty Industry Workshop,Beauty Industry Workshop invoice,303.92,Business Card,True,True,,

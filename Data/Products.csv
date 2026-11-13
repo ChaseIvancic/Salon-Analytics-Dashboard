@@ -1,0 +1,43 @@
+﻿Product_ID,Product_Name,Brand,Product_Category,Product_Type,Vendor,Unit_Cost,Retail_Price,Starting_Inventory,Current_Inventory,Reorder_Level,Reorder_Flag,Inventory_Value_At_Cost,Active
+PRD-001,Television Perfect Hair Shampoo,R+Co,Haircare,Shampoo,SalonCentric,18.0,36.0,22,92,3,False,1656.0,True
+PRD-002,Television Perfect Hair Conditioner,R+Co,Haircare,Conditioner,SalonCentric,18.0,36.0,8,79,6,False,1422.0,True
+PRD-003,Leave-In Molecular Repair Mask,K18,Haircare,Treatment,SalonCentric,42.0,75.0,15,59,3,False,2478.0,True
+PRD-004,Treatment Oil Light,Moroccanoil,Haircare,Oil,SalonCentric,24.0,48.0,12,82,3,False,1968.0,True
+PRD-005,Quick Blowout Spray,Redken,Haircare,Heat Protectant,SalonCentric,15.0,28.0,16,62,3,False,930.0,True
+PRD-006,Perk Up Dry Shampoo,Amika,Haircare,Dry Shampoo,SalonCentric,15.0,29.0,6,72,6,False,1080.0,True
+PRD-007,Quiet Calm Curl Control,Innersense,Haircare,Curl Cream,SalonCentric,16.0,30.0,10,90,4,False,1440.0,True
+PRD-008,I Create Hold,Innersense,Haircare,Gel,SalonCentric,16.0,30.0,15,64,7,False,1024.0,True
+PRD-009,No. 4P Blonde Enhancer,Olaplex,Haircare,Toning Shampoo,SalonCentric,17.0,32.0,13,100,5,False,1700.0,True
+PRD-010,No. 3 Hair Perfector,Olaplex,Haircare,Bond Treatment,SalonCentric,16.0,30.0,11,71,7,False,1136.0,True
+PRD-011,Trophy Shine + Texture Spray,R+Co,Haircare,Texture Spray,SalonCentric,18.0,36.0,16,74,5,False,1332.0,True
+PRD-012,Volume Spray 25,Kenra,Haircare,Hair Spray,SalonCentric,11.0,22.0,17,85,7,False,935.0,True
+PRD-013,Pro Extension Brush,Wet Brush,Extensions,Extension Brush,Beauty Solutions,8.0,18.0,11,23,6,False,184.0,True
+PRD-014,Gloss.Me Serum,Design.Me,Extensions,Extension Care,Beauty Solutions,13.0,26.0,10,23,3,False,299.0,True
+PRD-015,Cuticle Oil Pen,Dadi'Oil,Nailcare,Cuticle Oil,CosmoProf,5.0,12.0,14,55,5,False,275.0,True
+PRD-016,Milk & Honey Hand Cream,Cuccio,Nailcare,Hand Cream,CosmoProf,6.0,14.0,20,52,7,False,312.0,True
+PRD-017,Nail Envy,OPI,Nailcare,Nail Strengthener,CosmoProf,11.0,22.0,22,95,4,False,1045.0,True
+PRD-018,Cracked Heel Formula,Footlogix,Nailcare,Foot Balm,CosmoProf,12.0,25.0,17,57,6,False,684.0,True
+PRD-019,Lash Bath,Borboleta,Lashcare,Lash Cleanser,LashBox LA,9.0,22.0,20,92,3,False,828.0,True
+PRD-020,Lash Wand Pack,Luna & Lace,Lashcare,Lash Brush Pack,LashBox LA,2.0,8.0,22,71,4,False,142.0,True
+PRD-021,GrandeLASH-MD Mini,Grande Cosmetics,Lashcare,Lash Serum,LashBox LA,25.0,40.0,16,79,4,False,1975.0,True
+PRD-022,Ibrido Brow Gel,Brow Code,Browcare,Brow Gel,Universal Companies,12.0,24.0,17,85,5,False,1020.0,True
+PRD-023,Brow Wiz,Anastasia,Browcare,Brow Pencil,Universal Companies,14.0,25.0,19,72,3,False,1008.0,True
+PRD-024,Ormedic Balancing Cleanser,Image Skincare,Skincare,Cleanser,Universal Companies,17.0,35.0,20,59,7,False,1003.0,True
+PRD-025,Vital C Hydrating Repair Creme,Image Skincare,Skincare,Moisturizer,Universal Companies,32.0,64.0,15,49,7,False,1568.0,True
+PRD-026,UV Clear SPF 46,EltaMD,Skincare,SPF,Universal Companies,22.0,46.0,19,60,3,False,1320.0,True
+PRD-027,Vitamin C Reversal Serum,Circadia,Skincare,Serum,Universal Companies,28.0,58.0,20,78,5,False,2184.0,True
+PRD-028,Daily Microfoliant Mini,Dermalogica,Skincare,Exfoliant,Universal Companies,9.0,18.0,17,60,6,False,540.0,True
+PRD-029,Stone Crop Hydrating Mist,Eminence,Skincare,Face Mist,Universal Companies,18.0,39.0,14,61,4,False,1098.0,True
+PRD-030,Ormedic Lip Enhancement,Image Skincare,Skincare,Lip Balm,Universal Companies,12.0,26.0,19,66,6,False,792.0,True
+PRD-031,Holiday Haircare Mini Set,Luna & Lace,Seasonal,Gift Set,Faire Wholesale,18.0,42.0,11,24,7,False,432.0,True
+PRD-032,Self-Care Mini Set,Luna & Lace,Seasonal,Gift Set,Faire Wholesale,16.0,38.0,13,24,3,False,384.0,True
+PRD-033,Satin Scrunchie Set,Kitsch,Accessories,Silk Scrunchie,Faire Wholesale,5.0,12.0,14,97,4,False,485.0,True
+PRD-034,Satin Pillowcase,Kitsch,Accessories,Silk Pillowcase,Faire Wholesale,11.0,24.0,21,104,5,False,1144.0,True
+PRD-035,Oversized Claw Clip,Kitsch,Accessories,Claw Clip,Faire Wholesale,4.0,11.0,14,120,6,False,480.0,True
+PRD-036,Beauty Travel Pouch,Luna & Lace,Accessories,Travel Bag,Faire Wholesale,7.0,18.0,19,120,6,False,840.0,True
+PRD-037,Rosewood Candle,Paddywax,Accessories,Candle,Faire Wholesale,12.0,26.0,6,102,3,False,1224.0,True
+PRD-038,Undaria Algae Body Oil Mini,OSEA,Skincare,Body Oil,Universal Companies,18.0,32.0,19,84,7,False,1512.0,True
+PRD-039,Brow Gold Oil,Brow Code,Browcare,Brow Conditioner,Universal Companies,13.0,26.0,8,71,6,False,923.0,True
+PRD-040,Lash Sealant,Borboleta,Lashcare,Lash Sealant,LashBox LA,10.0,24.0,9,45,5,False,450.0,True
+PRD-041,Color Fanatic Leave-In,Pureology,Haircare,Leave-In,SalonCentric,18.0,36.0,11,82,5,False,1476.0,True
+PRD-042,GRO Scalp Serum Mini,Vegamour,Haircare,Scalp Serum,SalonCentric,24.0,42.0,12,97,6,False,2328.0,True

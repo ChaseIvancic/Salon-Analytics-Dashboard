@@ -1,0 +1,11 @@
+﻿From_Table,From_Field,To_Table,To_Field,Cardinality,Description
+Clients,Client_ID,Appointments,Client_ID,1-to-many,A client can have many appointments.
+Team_Members,Provider_ID,Appointments,Provider_ID,1-to-many,A provider performs many appointments.
+Appointments,Appointment_ID,Appointment_Services,Appointment_ID,1-to-many,An appointment may include multiple services or add-ons.
+Services,Service_ID,Appointment_Services,Service_ID,1-to-many,A service can appear on many appointment lines.
+Appointments,Appointment_ID,Transactions,Appointment_ID,1-to-many,A completed appointment normally has one sale and may have a refund.
+Transactions,Transaction_ID,Transaction_Items,Transaction_ID,1-to-many,"A transaction contains service, product, or refund line items."
+Products,Product_ID,Transaction_Items,Item_ID,1-to-many,Use only where Item_Type = Retail Product.
+Products,Product_ID,Inventory_Movements,Product_ID,1-to-many,"Tracks purchases, sales, and adjustments."
+Transactions,Transaction_ID,Inventory_Movements,Transaction_ID,0/1-to-many,Retail sales create negative inventory movements.
+Team_Members,Provider_ID,Transaction_Items,Provider_ID,1-to-many,Supports provider revenue and commission analysis.

@@ -1,0 +1,44 @@
+﻿Service_ID,Service_Name,Category,Duration_Minutes,Base_Price,Deposit_Required_Default,Online_Booking_Enabled,Is_Add_On,Eligible_Provider_IDs,Active
+SRV-001,Signature Haircut + Style,Haircut & Styling,60,68,False,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-002,Curly Cut + Shape,Haircut & Styling,90,95,False,True,False,"PRV-001,PRV-002",True
+SRV-003,Luxury Blowout,Haircut & Styling,45,48,False,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-004,Special Occasion Style,Haircut & Styling,75,95,True,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-005,Root Touch-Up,Hair Color,105,120,False,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-006,All-Over Color,Hair Color,135,155,False,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-007,Partial Highlight,Hair Color,150,185,True,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-008,Full Highlight,Hair Color,210,255,True,True,False,"PRV-001,PRV-002",True
+SRV-009,Partial Balayage,Hair Color,180,225,True,True,False,"PRV-001,PRV-002",True
+SRV-010,Full Balayage,Hair Color,240,315,True,True,False,"PRV-001,PRV-002",True
+SRV-011,Toner / Gloss Refresh,Hair Color,60,85,False,True,False,"PRV-001,PRV-002,PRV-006",True
+SRV-012,Color Correction,Hair Color,300,425,True,False,False,PRV-001,True
+SRV-013,Extra Color Bowl,Hair Color,15,22,False,True,True,"PRV-001,PRV-002,PRV-006",True
+SRV-014,Bond Builder Treatment,Hair Treatments,20,35,False,True,True,"PRV-001,PRV-002,PRV-006",True
+SRV-015,Deep Conditioning Treatment,Hair Treatments,25,30,False,True,True,"PRV-001,PRV-002,PRV-006",True
+SRV-016,Extension Consultation,Hair Extensions,30,25,False,True,False,PRV-001,True
+SRV-017,Extension Install - One Row,Hair Extensions,150,325,True,False,False,PRV-001,True
+SRV-018,Extension Move-Up - One Row,Hair Extensions,120,225,True,True,False,PRV-001,True
+SRV-019,Extension Removal,Hair Extensions,60,95,False,True,False,PRV-001,True
+SRV-020,Gel Manicure,Nails,60,55,False,True,False,PRV-003,True
+SRV-021,Structured Gel Manicure,Nails,90,72,False,True,False,PRV-003,True
+SRV-022,Acrylic Full Set,Nails,120,88,True,True,False,PRV-003,True
+SRV-023,Acrylic Fill,Nails,90,65,False,True,False,PRV-003,True
+SRV-024,Gel-X Full Set,Nails,105,82,True,True,False,PRV-003,True
+SRV-025,Spa Pedicure,Nails,75,62,False,True,False,PRV-003,True
+SRV-026,Nail Art - Simple,Nails,15,12,False,True,True,PRV-003,True
+SRV-027,Nail Art - Detailed,Nails,30,25,False,True,True,PRV-003,True
+SRV-028,Chrome / French Add-On,Nails,15,15,False,True,True,PRV-003,True
+SRV-029,Classic Lash Full Set,Lashes & Brows,120,145,True,True,False,PRV-004,True
+SRV-030,Hybrid Lash Full Set,Lashes & Brows,150,175,True,True,False,PRV-004,True
+SRV-031,Volume Lash Full Set,Lashes & Brows,180,205,True,True,False,PRV-004,True
+SRV-032,Lash Fill - 2 Week,Lashes & Brows,75,85,False,True,False,PRV-004,True
+SRV-033,Lash Fill - 3 Week,Lashes & Brows,90,105,False,True,False,PRV-004,True
+SRV-034,Lash Lift + Tint,Lashes & Brows,75,92,False,True,False,PRV-004,True
+SRV-035,Brow Wax + Tint,Lashes & Brows,45,48,False,True,False,PRV-004,True
+SRV-036,Brow Lamination,Lashes & Brows,60,78,False,True,False,PRV-004,True
+SRV-037,Signature Facial,Skin & Waxing,60,105,False,True,False,PRV-005,True
+SRV-038,Hydrating Facial,Skin & Waxing,75,135,False,True,False,PRV-005,True
+SRV-039,Dermaplane Facial,Skin & Waxing,75,145,False,True,False,PRV-005,True
+SRV-040,Brow Wax,Skin & Waxing,20,24,False,True,False,PRV-005,True
+SRV-041,Lip + Chin Wax,Skin & Waxing,25,28,False,True,False,PRV-005,True
+SRV-042,Underarm Wax,Skin & Waxing,25,32,False,True,False,PRV-005,True
+SRV-043,Facial LED Add-On,Skin & Waxing,20,25,False,True,True,PRV-005,True

@@ -1,0 +1,7 @@
+﻿Provider_ID,Provider_Name,Role,Completed_Appointments,Net_Sales,Service_Revenue,Retail_Revenue,Tips,Average_Ticket,Cancellation_Rate,No_Show_Rate
+PRV-001,Camila Reyes,Owner / Master Stylist,635,128680.81,124864.23,5530.18,21734.02,204.75,0.0764,0.0134
+PRV-002,Morgan Ellis,Senior Stylist,559,97428.71,93253.07,5044.9,16021.04,175.21,0.084,0.0315
+PRV-003,Jade Thompson,Nail Artist,768,60902.28,60065.76,1890.84,10258.62,79.53,0.0809,0.0233
+PRV-004,Nia Brooks,Lash & Brow Artist,675,74036.5,71848.07,3340.58,12722.91,110.92,0.0686,0.0254
+PRV-005,Sophie Patel,Esthetician,490,42168.04,38634.14,3998.4,6710.43,86.79,0.0749,0.0279
+PRV-006,Avery Bennett,Junior Stylist,390,46084.41,43038.42,3686.04,7308.03,119.64,0.0769,0.0264

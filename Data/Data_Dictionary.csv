@@ -1,0 +1,175 @@
+﻿Table,Field,Data_Type,Key_Type,Definition,Example
+Clients,Client_ID,Text,Primary Key,Synthetic unique client key.,CLI-00001
+Clients,First_Name,Text,,Fictional client first name.,Nora
+Clients,Last_Name,Text,,Fictional client last name.,Smith
+Clients,Email,Text,,Synthetic email using example.com.,nora.smith.1@example.com
+Clients,Phone,Text,,Synthetic phone number.,(216) 555-1150
+Clients,City,Text,,Client city in Northeast Ohio.,Parma
+Clients,State,Text,,Client state.,OH
+Clients,ZIP,Text,,Client ZIP code.,44134
+Clients,Birthday_Month,Whole Number,,Month number only; no full birth date is included.,2
+Clients,Acquisition_Source,Text,,How the client first discovered the studio.,GlossGenius Marketplace
+Clients,Signup_Date,Date,,Date the client record was created.,2025-09-03
+Clients,First_Visit_Date,Date,,First completed appointment date.,2025-10-08
+Clients,Last_Visit_Date,Date,,Most recent completed appointment date.,2026-05-12
+Clients,Completed_Visits,Whole Number,,Count of completed appointments.,2
+Clients,Cancelled_Visits,Whole Number,,Count of cancelled appointments.,0
+Clients,No_Show_Visits,Whole Number,,Count of no-show appointments.,0
+Clients,Lifetime_Net_Sales,Decimal / Currency,,"Net sales attributed to the client, excluding tax and tips.",174.87
+Clients,Average_Days_Between_Visits,Decimal / Currency,,Average gap between completed visits.,216.0
+Clients,Preferred_Category,Text,,Client's most likely service category.,Haircut & Styling
+Clients,Preferred_Provider_ID,Text,Foreign Key / Identifier,Provider most often requested or retained.,PRV-002
+Clients,Marketing_Opt_In,Boolean,,Whether the synthetic client opted into marketing.,True
+Clients,Client_Status,Text,,"Active, At Risk, Lapsed, or Prospect based on recency.",Active
+Clients,Loyalty_Tier,Text,,"New, Silver, Gold, or VIP based on visits and spend.",New
+Clients,Synthetic_Client_Note,Text,,Non-sensitive fictional preference note.,Likes low-maintenance styles
+Team_Members,Provider_ID,Text,Primary Key,Unique provider key.,PRV-001
+Team_Members,Provider_Name,Text,,Fictional provider name.,Camila Reyes
+Team_Members,Role,Text,,Position or provider level.,Owner / Master Stylist
+Team_Members,Primary_Specialty,Text,,Main service specialization.,Color & Extensions
+Team_Members,Hire_Date,Date,,Provider start date.,2021-06-01
+Team_Members,Employment_Type,Text,,Owner or commission employee.,Owner
+Team_Members,Commission_Rate,Decimal / Currency,,Illustrative service commission percentage.,0.0
+Team_Members,Retail_Commission_Rate,Decimal / Currency,,Illustrative retail commission percentage.,0.0
+Team_Members,Work_Days,Text,,Normal scheduled workdays.,"Tue,Wed,Thu,Fri,Sat"
+Team_Members,Active,Boolean,,Whether the provider is active in the snapshot.,True
+Services,Service_ID,Text,Primary Key,Unique service key.,SRV-001
+Services,Service_Name,Text,,Bookable service or add-on name.,Signature Haircut + Style
+Services,Category,Text,,Service reporting category.,Haircut & Styling
+Services,Duration_Minutes,Whole Number,,Standard scheduled duration.,60
+Services,Base_Price,Whole Number,,Base menu price before provider-level and annual pricing adjustments.,68
+Services,Deposit_Required_Default,Boolean,,Whether the service normally requires a deposit.,False
+Services,Online_Booking_Enabled,Boolean,,Whether clients can book it online.,True
+Services,Is_Add_On,Boolean,,Whether the service is normally added to a primary service.,False
+Services,Eligible_Provider_IDs,Text,,Comma-separated providers qualified to perform the service.,"PRV-001,PRV-002,PRV-006"
+Services,Active,Boolean,,Whether the service is active.,True
+Products,Product_ID,Text,Primary Key,Unique retail product key.,PRD-001
+Products,Product_Name,Text,,Product name.,Television Perfect Hair Shampoo
+Products,Brand,Text,,Product brand.,R+Co
+Products,Product_Category,Text,,Retail reporting category.,Haircare
+Products,Product_Type,Text,,Product format or use.,Shampoo
+Products,Vendor,Text,,Typical wholesale supplier.,SalonCentric
+Products,Unit_Cost,Decimal / Currency,,Synthetic wholesale cost per unit.,18.0
+Products,Retail_Price,Decimal / Currency,,Synthetic selling price per unit.,36.0
+Products,Starting_Inventory,Whole Number,,Opening quantity on hand.,22
+Products,Current_Inventory,Whole Number,,Quantity on hand at the snapshot date.,92
+Products,Reorder_Level,Whole Number,,Minimum desired quantity.,3
+Products,Reorder_Flag,Boolean,,True when current inventory is at or below reorder level.,False
+Products,Inventory_Value_At_Cost,Decimal / Currency,,Current inventory multiplied by unit cost.,1656.0
+Products,Active,Boolean,,Whether the item is active.,True
+Appointments,Appointment_ID,Text,Primary Key,Unique appointment key.,APT-001463
+Appointments,Appointment_Date,Date,,Scheduled appointment date.,2024-01-02
+Appointments,Start_Time,Text,,Scheduled start time.,3:15 PM
+Appointments,End_Time,Text,,Scheduled end time.,4:15 PM
+Appointments,Client_ID,Text,Foreign Key / Identifier,Client foreign key.,CLI-00275
+Appointments,Provider_ID,Text,Foreign Key / Identifier,Provider foreign key.,PRV-005
+Appointments,Primary_Category,Text,,Main service category for the appointment.,Skin & Waxing
+Appointments,Appointment_Status,Text,,"Completed, Cancelled, No-Show, Confirmed, or Scheduled.",Completed
+Appointments,Booking_Source,Text,,How the appointment was booked.,Online Booking
+Appointments,Booked_On,Date,,Date the appointment was created.,2023-12-29
+Appointments,Lead_Time_Days,Whole Number,,Days between booking and appointment.,4
+Appointments,Total_Duration_Minutes,Whole Number,,Total scheduled duration across service lines.,60
+Appointments,Quoted_Service_Total,Decimal / Currency,,"Expected service total before discounts, tax, and tip.",105.0
+Appointments,Deposit_Required,Boolean,,Whether a deposit was required.,False
+Appointments,Deposit_Amount,Whole Number,,Deposit collected or expected.,0
+Appointments,Arrival_Delta_Minutes,Whole Number,,Minutes early or late for completed appointments.,3
+Appointments,Cancellation_Reason,Text,,Reason when appointment is cancelled or missed.,Childcare issue
+Appointments,New_Client_At_Visit,Boolean,,True for the client's first completed visit.,True
+Appointments,Rebooked_At_Checkout,Boolean,,Whether a future appointment was booked at checkout.,False
+Appointments,Notes,Text,,Reserved for appointment notes; intentionally blank in this synthetic dataset.,
+Appointment_Services,Appointment_Service_ID,Text,Primary Key,Unique appointment line key.,APS-0000001
+Appointment_Services,Appointment_ID,Text,Primary Key,Appointment foreign key.,APT-000001
+Appointment_Services,Line_Number,Whole Number,,Service order within the appointment.,1
+Appointment_Services,Service_ID,Text,Primary Key,Service foreign key.,SRV-040
+Appointment_Services,Service_Name,Text,,Service name copied for reporting convenience.,Brow Wax
+Appointment_Services,Service_Category,Text,,Service category.,Skin & Waxing
+Appointment_Services,Provider_ID,Text,Primary Key,Provider who performed the service.,PRV-005
+Appointment_Services,Scheduled_Duration_Minutes,Whole Number,,Scheduled line duration.,20
+Appointment_Services,List_Price,Decimal / Currency,,Menu price for the date.,24.72
+Appointment_Services,Actual_Price,Decimal / Currency,,Charged service price before transaction-level discount.,25.0
+Appointment_Services,Is_Add_On,Boolean,,Whether the line is an add-on.,False
+Appointment_Services,Commission_Rate,Decimal / Currency,,Illustrative service commission rate.,0.46
+Transactions,Transaction_ID,Text,Primary Key,Unique transaction key.,TXN-0000001
+Transactions,Transaction_Date,Date,,Date payment or refund was processed.,2024-01-02
+Transactions,Transaction_Time,Text,,Time payment or refund was processed.,4:15 PM
+Transactions,Appointment_ID,Text,Foreign Key / Identifier,Related appointment key.,APT-001463
+Transactions,Client_ID,Text,Foreign Key / Identifier,Client foreign key.,CLI-00275
+Transactions,Provider_ID,Text,Foreign Key / Identifier,Primary provider foreign key.,PRV-005
+Transactions,Transaction_Type,Text,,Sale or Refund.,Sale
+Transactions,Original_Transaction_ID,Text,Foreign Key / Identifier,Original sale key for refunds.,
+Transactions,Payment_Method,Text,,"Card, Cash, Gift Card, or Split Payment.",Card
+Transactions,Service_Subtotal,Decimal / Currency,,Service sales before discount; negative on refund rows.,105.0
+Transactions,Product_Subtotal,Decimal / Currency,,Retail sales before discount.,0.0
+Transactions,Discount_Amount,Decimal / Currency,,Transaction-level discount.,0.0
+Transactions,Promo_Code,Text,,Synthetic promotion code when used.,WINTER10
+Transactions,Sales_Tax,Decimal / Currency,,Tax applied to retail products.,0.0
+Transactions,Tip_Amount,Decimal / Currency,,Gratuity collected.,26.25
+Transactions,Deposit_Applied,Whole Number,,Prior deposit applied to checkout.,0
+Transactions,Net_Sales,Decimal / Currency,,"Service plus product sales less discount and refunds, before tax and tip.",105.0
+Transactions,Total_Charged,Decimal / Currency,,Net sales plus tax and tip.,131.25
+Transactions,Amount_Collected_At_Checkout,Decimal / Currency,,Total charged less deposit already collected.,131.25
+Transactions,Processing_Fee,Decimal / Currency,,Illustrative payment processing fee.,3.71
+Transactions,Estimated_Net_Payout,Decimal / Currency,,Total charged less illustrative processing fee.,127.54
+Transactions,Transaction_Status,Text,,Processing status.,Completed
+Transactions,Notes,Text,,Refund type or other short note.,
+Transaction_Items,Transaction_Item_ID,Text,Primary Key,Unique transaction line key.,TXI-00000001
+Transaction_Items,Transaction_ID,Text,Foreign Key / Identifier,Transaction foreign key.,TXN-0000001
+Transaction_Items,Appointment_ID,Text,Foreign Key / Identifier,Appointment foreign key.,APT-001463
+Transaction_Items,Item_Type,Text,,"Service, Retail Product, or Refund.",Service
+Transaction_Items,Item_ID,Text,Foreign Key / Identifier,Service or product key.,SRV-037
+Transaction_Items,Item_Name,Text,,Line item name.,Signature Facial
+Transaction_Items,Category,Text,,Service or retail category.,Skin & Waxing
+Transaction_Items,Provider_ID,Text,Foreign Key / Identifier,Provider credited with the line.,PRV-005
+Transaction_Items,Quantity,Whole Number,,Units sold; negative for refund lines.,1
+Transaction_Items,Unit_Price,Decimal / Currency,,Price per unit.,105.0
+Transaction_Items,Line_Gross,Decimal / Currency,,Quantity multiplied by unit price before discount.,105.0
+Transaction_Items,Allocated_Discount,Decimal / Currency,,Share of transaction discount allocated to the line.,0.0
+Transaction_Items,Line_Net_Sales,Decimal / Currency,,Line sales after allocated discount.,105.0
+Transaction_Items,Unit_Cost,Decimal / Currency,,Wholesale cost for retail products; zero for services.,0.0
+Transaction_Items,Estimated_Gross_Profit,Decimal / Currency,,Line net sales less unit cost; excludes labor and overhead.,105.0
+Transaction_Items,Commission_Rate,Decimal / Currency,,Illustrative line commission percentage.,0.46
+Transaction_Items,Estimated_Commission,Decimal / Currency,,Line net sales multiplied by commission rate.,48.3
+Inventory_Movements,Movement_ID,Text,Primary Key,Unique inventory movement key.,INV-0000001
+Inventory_Movements,Movement_Date,Date,,Movement date.,2023-12-31
+Inventory_Movements,Product_ID,Text,Foreign Key / Identifier,Product foreign key.,PRD-001
+Inventory_Movements,Movement_Type,Text,,"Opening Balance, Purchase Receipt, Retail Sale, or Adjustment.",Opening Balance
+Inventory_Movements,Quantity_Change,Whole Number,,Positive receipts and negative sales/adjustments.,22
+Inventory_Movements,Unit_Cost,Decimal / Currency,,Unit cost at movement.,18.0
+Inventory_Movements,Transaction_ID,Text,Foreign Key / Identifier,Related transaction for retail sales.,
+Inventory_Movements,Vendor,Text,,Supplier for purchase receipts.,SalonCentric
+Inventory_Movements,Reason,Text,,Movement explanation.,Initial inventory load
+Inventory_Movements,Running_Quantity_After_Movement,Whole Number,,Quantity on hand after the movement.,22
+Expenses,Expense_ID,Text,Primary Key,Unique expense key.,EXP-000003
+Expenses,Expense_Date,Date,,Expense date.,2024-01-02
+Expenses,Expense_Category,Text,,Operating expense category.,Software
+Expenses,Vendor,Text,,Payee or supplier.,Accounting Software
+Expenses,Description,Text,,Expense description.,Software - January 2024
+Expenses,Amount,Decimal / Currency,,Expense amount.,35.0
+Expenses,Payment_Method,Text,,"Business Card, ACH, or Cash.",Business Card
+Expenses,Tax_Deductible,Boolean,,Illustrative deductibility flag; not tax advice.,True
+Expenses,Receipt_Attached,Boolean,,Whether a receipt is represented as attached.,True
+Expenses,Provider_ID,Text,Primary Key,Optional provider-specific expense key.,
+Expenses,Notes,Text,,Additional expense note.,Recurring operating expense
+Monthly_Summary,Month,Date,,First day of reporting month.,2024-01-01
+Monthly_Summary,Net_Sales,Decimal / Currency,,Monthly net sales.,4692.5
+Monthly_Summary,Service_Revenue,Decimal / Currency,,Monthly service subtotal.,4780.0
+Monthly_Summary,Retail_Revenue,Decimal / Currency,,Monthly retail subtotal.,232.0
+Monthly_Summary,Tips,Decimal / Currency,,Monthly tips.,729.22
+Monthly_Summary,Sale_Transactions,Whole Number,,Count of sale transactions.,45
+Monthly_Summary,Refund_Amount,Decimal / Currency,,Absolute value of monthly refunds.,0.0
+Monthly_Summary,Average_Ticket,Decimal / Currency,,Average net sales per sale transaction.,104.28
+Monthly_Summary,Completed_Appointments,Whole Number,,Completed appointment count.,45
+Monthly_Summary,Cancelled_Appointments,Whole Number,,Cancelled appointment count.,6
+Monthly_Summary,No_Show_Appointments,Whole Number,,No-show appointment count.,3
+Monthly_Summary,New_Clients,Whole Number,,Clients with their first completed visit in the month.,43
+Provider_Summary,Provider_ID,Text,Primary Key,Provider key.,PRV-001
+Provider_Summary,Provider_Name,Text,,Provider name.,Camila Reyes
+Provider_Summary,Role,Text,,Provider role.,Owner / Master Stylist
+Provider_Summary,Completed_Appointments,Whole Number,,Completed appointment count.,635
+Provider_Summary,Net_Sales,Decimal / Currency,,Net sales attributed to provider.,128680.81
+Provider_Summary,Service_Revenue,Decimal / Currency,,Service revenue attributed to provider.,124864.23
+Provider_Summary,Retail_Revenue,Decimal / Currency,,Retail revenue attributed to provider.,5530.18
+Provider_Summary,Tips,Decimal / Currency,,Tips attributed to provider.,21734.02
+Provider_Summary,Average_Ticket,Decimal / Currency,,Average net sales per provider sale.,204.75
+Provider_Summary,Cancellation_Rate,Decimal / Currency,,Cancelled provider appointments divided by all provider appointments.,0.0764
+Provider_Summary,No_Show_Rate,Decimal / Currency,,No-show provider appointments divided by all provider appointments.,0.0134
