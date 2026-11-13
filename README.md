@@ -22,3 +22,13 @@ By combining financial, operational, and customer analytics, this dashboard help
        width="900">
 </details>
 
+## Technology & Skills
+* Power BI: Interactive dashboard development, data visualization, slicers, and KPI reporting
+* DAX: Custom measures, year-over-year comparisons, calculated columns, and dynamic KPI headlines
+* Power Query: Data importing, transformation, and preparation
+* Data Modeling: Relational table design, one-to-many relationships, and date dimension modeling
+* SQL Server: Data querying, aggregation, joins, and business analysis
+
+## Dataset Overview
+
+## Business Questions & SQL Analysis
