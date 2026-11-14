@@ -78,7 +78,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Technical Approach
 
 #### SQL Concepts Demonstrated
-
+CTE, PARTITION, LAG, ROUND
 #### Results
 
 #### Business Insights
