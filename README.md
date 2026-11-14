@@ -42,7 +42,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 | Calendar | Custom date dimension used for time based filtering and year-over-year comparisons |
 
 ## Business Questions & SQL Analysis
-### Which service categories are driving year-over-year revenue growth, and which are declining?
+### 1. Which service categories are driving year-over-year revenue growth, and which are declining?
 #### Business Objective
 
 #### Technical Approach
@@ -52,7 +52,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Results
 
 #### Business Insights
-### Are revenue increases being driven primarily by more appointments or by higher average ticket values?
+### 2. Are revenue increases being driven primarily by more appointments or by higher average ticket values?
 #### Business Objective
 
 #### Technical Approach
@@ -62,7 +62,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Results
 
 #### Business Insights
-### Which clients are at the highest risk of not returning, based on their historical visit frequency?
+### 3. Which clients are at the highest risk of not returning, based on their historical visit frequency?
 #### Business Objective
 
 #### Technical Approach
@@ -72,7 +72,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Results
 
 #### Business Insights
-### Which stylists are improving their revenue performance the fastest over time?
+### 4. Which stylists are improving their revenue performance the fastest over time?
 #### Business Objective
 
 #### Technical Approach
@@ -82,7 +82,7 @@ CTE, PARTITION, LAG, ROUND
 #### Results
 
 #### Business Insights
-### What appointment days and times experience the highest cancellation or no-show rates?
+### 5. What appointment days and times experience the highest cancellation or no-show rates?
 #### Business Objective
 
 #### Technical Approach
