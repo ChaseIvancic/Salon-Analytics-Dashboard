@@ -30,6 +30,16 @@ By combining financial, operational, and customer analytics, this dashboard help
 * SQL Server: Data querying, aggregation, joins, and business analysis
 
 ## Dataset Overview
+This project uses a synthetically generated dataset designed to simulate salon business operations from 2024 through 2026. The dataset contains multiple related tables covering appointments, services, clients, transactions, and stylist performance
+### Tables used in the Power BI Dashboard
+The dashboard utilizes a subset of the available tables to calculate key performance indicators and support interactive filtering.
+| Table | Description |
+| --- | --- |
+| Appointments | Contains appointments dates, client associations and appointment level information |
+| Appointments_Services | Contains services performed during appointments and their actual prices. Used to calculate revenue |
+| Transactions | Contains payment information, including payment methods and associated appointments |
+| Clients | Contains customer information used for client level analysis |
+| Calendar | Custom date dimension used for time based filtering and year-over-year comparisons |
 
 ## Business Questions & SQL Analysis
 ### Which service categories are driving year-over-year revenue growth, and which are declining?
