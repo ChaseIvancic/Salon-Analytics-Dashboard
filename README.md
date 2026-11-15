@@ -85,6 +85,8 @@ Joined Appointments and Appointment_Services to calculate monthly revenue per st
 * LAG() & PARTITION BY: Retrieved previous period revenue for each stylist
 * NULLIF() & ROUND(): Handled division by zero and formatted growth percentages
 #### Results
+**SQL Code:** [View Full Query](./SQL/BusinessQuestion4.sql)
+
 Generated monthly revenue totals, previous period revenue and MoM growth percentages for each stylist
 
 * First 10 rows of the table
