@@ -48,7 +48,7 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Technical Approach
 
 #### SQL Concepts Demonstrated
-
+CTEs:
 #### Results
 
 #### Business Insights
@@ -74,14 +74,35 @@ The dashboard utilizes a subset of the available tables to calculate key perform
 #### Business Insights
 ### 4. Which stylists are improving their revenue performance the fastest over time?
 #### Business Objective
-
+Evaluate individual stylist revenue performance over time to identify growth trends and potential areas for improvement.
 #### Technical Approach
-
+Joined Appointments and Appointment_Services to calculate monthly revenue per stylist. Used CTEs and the LAG() window function to compare revenue against the previous recorded month and calculate month-over-month percentages.
 #### SQL Concepts Demonstrated
-CTE, PARTITION, LAG, ROUND
+* CTEs: Organized multi-step calculations.
+* INNER JOIN: Combined appointment and service revenue data.
+* SUM() & GROUP BY: Aggregated revenue by stylist and month.
+* DATEADD() & DATEDIFF(): Grouped appointments into monthly periods.
+* LAG() & PARTITION BY: Retrieved previous period revenue for each stylist
+* NULLIF() & ROUND(): Handled division by zero and formatted growth percentages
 #### Results
+Generated monthly revenue totals, previous period revenue and MoM growth percentages for each stylist
 
+* First 10 rows of the table
+| Provider_ID | Revenue_Month           | Total_Revenue | Previous_Month_Revenue | MoM_Growth_Percent |
+|-------------|-------------------------|---------------|------------------------|--------------------|
+| PRV-001     | 2024-01-01 00:00:00.000 | 1248          | NULL                   | NULL               |
+| PRV-001     | 2024-03-01 00:00:00.000 | 1775          | 1248                   | 42.23              |
+| PRV-001     | 2024-04-01 00:00:00.000 | 2157          | 1775                   | 21.52              |
+| PRV-001     | 2024-05-01 00:00:00.000 | 2144          | 2157                   | -0.6               |
+| PRV-001     | 2024-06-01 00:00:00.000 | 2709          | 2144                   | 26.35              |
+| PRV-001     | 2024-07-01 00:00:00.000 | 4118          | 2709                   | 52.01              |
+| PRV-001     | 2024-08-01 00:00:00.000 | 1468          | 4118                   | -64.35             |
+| PRV-001     | 2024-09-01 00:00:00.000 | 2922          | 1468                   | 99.05              |
+| PRV-001     | 2024-10-01 00:00:00.000 | 1954          | 2922                   | -33.13             |
 #### Business Insights
+* Quickly identify stylists experiencing revenue growth or decline
+* Detect seasonal trends
+* Support revenue optimization and scheduling decisions
 ### 5. What appointment days and times experience the highest cancellation or no-show rates?
 #### Business Objective
 
