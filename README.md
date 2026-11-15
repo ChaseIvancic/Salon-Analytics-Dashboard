@@ -88,6 +88,7 @@ Joined Appointments and Appointment_Services to calculate monthly revenue per st
 Generated monthly revenue totals, previous period revenue and MoM growth percentages for each stylist
 
 * First 10 rows of the table
+
 | Provider_ID | Revenue_Month           | Total_Revenue | Previous_Month_Revenue | MoM_Growth_Percent |
 |-------------|-------------------------|---------------|------------------------|--------------------|
 | PRV-001     | 2024-01-01 00:00:00.000 | 1248          | NULL                   | NULL               |
@@ -99,6 +100,7 @@ Generated monthly revenue totals, previous period revenue and MoM growth percent
 | PRV-001     | 2024-08-01 00:00:00.000 | 1468          | 4118                   | -64.35             |
 | PRV-001     | 2024-09-01 00:00:00.000 | 2922          | 1468                   | 99.05              |
 | PRV-001     | 2024-10-01 00:00:00.000 | 1954          | 2922                   | -33.13             |
+
 #### Business Insights
 * Quickly identify stylists experiencing revenue growth or decline
 * Detect seasonal trends
